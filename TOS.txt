@@ -1,0 +1,55 @@
+# NightGuard Terms of Service
+
+Last Updated: 20/03/2026
+
+By using NightGuard ("the Bot"), you agree to the following terms:
+
+## 1. Usage
+
+NightGuard is a Discord bot designed to help manage and moderate Discord servers. By inviting or using the bot, you agree to use it in compliance with Discord’s Terms of Service.
+
+## 2. Access & Availability
+
+We reserve the right to modify, suspend, or discontinue the bot at any time without notice. We are not responsible for any downtime or loss of functionality.
+
+## 3. Data Usage
+
+NightGuard may store server-specific configuration such as:
+
+* Server IDs
+* Channel IDs
+* Role IDs
+* User IDs (for moderation or licensing)
+
+This data is used solely to provide functionality.
+
+## 4. User Responsibility
+
+Server owners and administrators are responsible for how they configure and use NightGuard. Misuse of the bot may result in restrictions or blacklisting.
+
+## 5. Payments (If Applicable)
+
+If you purchase a subscription or license:
+
+* Payments are handled via Tebex
+* All purchases are subject to Tebex terms
+* Refunds are handled at our discretion unless stated otherwise
+
+## 6. Limitation of Liability
+
+We are not liable for:
+
+* Server damage
+* Data loss
+* Misconfiguration by users
+
+Use the bot at your own risk.
+
+## 7. Changes
+
+We may update these Terms at any time. Continued use means you accept the updated Terms.
+
+## 8. Contact
+
+For support, contact:
+Discord: https://discord.gg/ZSXC9QzSst

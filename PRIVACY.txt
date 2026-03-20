@@ -1,0 +1,51 @@
+# NightGuard Privacy Policy
+
+Last Updated: 20/03/2026
+
+## 1. Information We Collect
+
+NightGuard may collect and store:
+
+* Discord User IDs
+* Server IDs
+* Channel IDs
+* Role IDs
+* Messages (only when required for features like moderation or tickets)
+
+## 2. How We Use Data
+
+We use this data to:
+
+* Provide bot functionality
+* Store server configurations
+* Manage licenses and subscriptions
+
+## 3. Data Storage
+
+Data is stored securely and is not shared with third parties.
+
+## 4. Data Sharing
+
+We do NOT sell or share your data.
+
+We may share data only if required by law.
+
+## 5. Data Removal
+
+Server owners can request data removal by:
+
+* Removing the bot from their server
+* Contacting support
+
+## 6. Security
+
+We take reasonable steps to protect your data, but no system is 100% secure.
+
+## 7. Changes
+
+We may update this policy at any time.
+
+## 8. Contact
+
+For privacy requests:
+Discord: https://discord.gg/ZSXC9QzSst
